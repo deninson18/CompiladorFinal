@@ -118,16 +118,37 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="1458006586_Add" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1458006586_Add.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1470349251_Add-Male-User" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1470349251_Add-Male-User.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="about us" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\about us.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1458006564_EditDocument" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1458006564_EditDocument.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1470349990_help_index" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1470349990_help_index.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1458006616_Enter" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1458006616_Enter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="1458006586_Add" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1458006586_Add.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1470349865_agt_Utilities" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1470349865_agt_Utilities.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1470349610_Run" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1470349610_Run.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1470349341_Add-Male-User" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1470349341_Add-Male-User.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="1458006437_Cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1458006437_Cancel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="1458006564_EditDocument" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1458006564_EditDocument.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1470350451_exit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1470350451_exit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

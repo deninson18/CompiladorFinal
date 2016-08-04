@@ -56,6 +56,7 @@
     <Compile Include="AyudaForm.Designer.cs">
       <DependentUpon>AyudaForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="CompiladorClass.cs" />
     <Compile Include="PortadaForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +105,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\1458006564_EditDocument.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1470349251_Add-Male-User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1470349341_Add-Male-User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1470349610_Run.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1470349865_agt_Utilities.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1470349990_help_index.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about us.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1470350451_exit.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
